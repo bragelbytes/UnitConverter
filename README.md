@@ -1,6 +1,6 @@
 # UnitConverter
 
-This app demonstrates the use of Composable functions, State, Recomposition, Remember, MutableState, and more.
+This unit conversion app demonstrates the use of Composable functions, State, Recomposition, Remember, MutableState, and more.
 
 ## How to:
 
